@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3d26bb9a1cfd61e47b1c11f1ba86e652
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pelotaPrefab: {fileID: 4906654233752649203, guid: 1139e4a50e18bfb45a1c4b503b7c0c36, type: 3}
+  - puntoDeDisparo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
